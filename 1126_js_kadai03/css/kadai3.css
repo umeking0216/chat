@@ -1,0 +1,95 @@
+html{
+    font-size: 62.5%;
+  }
+  
+
+body{
+      color: #333333;
+      font-family:"Open Sans",'ヒラギノ角ゴ ProN W3', Hiragino Kaku Gothic ProN, "メイリオ", Meiryo, sans-serif;
+      font-size: 1.6rem;
+      line-height: 2;
+      max-width: 800px;
+      margin: auto;
+  }
+
+.title{
+width:800px;
+height:50px;
+background-color:rgb(0, 170, 255);
+
+}
+
+#username{
+ font-size: 3.2rem;
+ padding: auto;
+}
+
+
+.name{
+    max-width: 1140px;
+}
+
+textarea{
+    width: 600px;
+
+
+}
+
+
+
+button{
+    max-width: 600px;
+    height: 50px;
+
+}
+
+#send_item{
+    display: flex;
+    max-width: 800px;
+    margin: auto;
+    height: 50px;
+
+}
+
+#output{
+    width: 800px;
+    border: 2px solid rgb(213, 210, 210);
+    border-radius: 6px;
+    background-color: rgb(154, 204, 250);
+}
+
+
+.img{
+  height: 50px;
+}
+
+
+.msg1 {
+   width: 40%;
+   height: 10px;
+   margin-left: auto;
+}
+
+
+.msg2 {
+    background-color: rgb(251, 245, 245);
+    width: 40%;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: auto;
+}
+
+.msg3 {
+    background-color: rgba(46, 128, 28, 0.541);
+    width:40%;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+  }
+
+
+.msg4 {
+  
+    width: 40%;
+    height: 10px;
+ }
